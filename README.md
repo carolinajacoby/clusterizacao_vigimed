@@ -44,9 +44,6 @@ Essas associações foram categorizadas de acordo com:
 ├── notebooks/
 │ └── analise_clusters_dmards.ipynb
 │
-
-├── requirements.txt
-│ └── Dependências do ambiente
 ```
 
 
