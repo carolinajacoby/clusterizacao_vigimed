@@ -24,12 +24,12 @@ Essas associações foram categorizadas de acordo com:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Python 3.10+  
+- **Linguagem:** Python >=3.10  
 - **Banco de Dados:** DuckDB >=0.9  
 
 - **Bibliotecas de Análise:**  
   - pandas >=2.0  
-  - numpy >=1.20  
+  - numpy >=1.24  
   - scipy >=1.10  
 
 - **Machine Learning:**  
@@ -37,8 +37,8 @@ Essas associações foram categorizadas de acordo com:
 
 - **Visualização:**  
   - matplotlib >=3.7  
-  - seaborn >=0.12  
-
+  - seaborn >=0.12
+  - 
 ## 📂 Estrutura do Repositório
 ```
 ├── notebooks/
