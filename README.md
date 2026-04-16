@@ -24,19 +24,20 @@ Essas associações foram categorizadas de acordo com:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Python 3.x  
-- **Banco de Dados:** DuckDB (processamento de alto desempenho para grandes volumes de dados)  
-- **Bibliotecas de Análise:**  
-  - pandas  
-  - numpy  
-  - scipy  
-- **Machine Learning:**  
-  - scikit-learn (K-Means, StandardScaler)  
-- **Visualização:**  
-  - matplotlib  
-  - seaborn  
+- **Linguagem:** Python 3.10+  
+- **Banco de Dados:** DuckDB >=0.9  
 
----
+- **Bibliotecas de Análise:**  
+  - pandas >=2.0  
+  - numpy >=1.20  
+  - scipy >=1.10  
+
+- **Machine Learning:**  
+  - scikit-learn >=1.3 (K-Means, StandardScaler)  
+
+- **Visualização:**  
+  - matplotlib >=3.7  
+  - seaborn >=0.12  
 
 ## 📂 Estrutura do Repositório
 ```
